@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>YouTube Playlist - Custom RSS</title>
+    <link>https://youtube.com/playlist?list=PLsbXPXPjpUepEqNme9RSS-9Tzrje-L1TN&si=h-eFStqd6fXRSwfp</link>
+    <description>This is a custom RSS feed for a YouTube playlist.</description>
+    <language>en-us</language>
+    <pubDate>Wed, 08 May 2025 12:00:00 GMT</pubDate>
+
+    <item>
+      <title>Sample Video Title</title>
+      <link>https://www.youtube.com/watch?v=SAMPLE_VIDEO_ID</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=SAMPLE_VIDEO_ID</guid>
+      <description>This is a sample description of the video.</description>
+      <pubDate>Wed, 01 May 2025 10:00:00 GMT</pubDate>
+    </item>
+
+    <!-- Add more <item> blocks here for other videos in the playlist -->
+
+  </channel>
+</rss>
